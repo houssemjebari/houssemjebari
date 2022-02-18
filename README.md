@@ -13,20 +13,19 @@
 <br />
 <br />
 
-I'm **Houssem Jebari**, an **Automation, Control & industrial computing Engineering student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@houssemjebari](https://github.com/houssemjebari), and an Artificial Intelligence enthusiast 👨🏽‍💼. 
+I'm **Houssem Jebari**, an **Control Systems and Robotics Engineering Student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@houssemjebari](https://github.com/houssemjebari), and an Artificial Intelligence enthusiast 👨🏽‍💼. 
 
   <img align="right" alt="GIF" src="https://www.indiaeducation.net/imagesvr_ce/5953/6.gif" />
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently Working on a series of Computer vision Projects that I will be sharing soon;
-- 🌱 I’m learning Natural Language Processing & Reinforcement Learning ;
-- 🤔 I'm interested in applying Data Science and deep learning in embedded systems and robots ;
-- 💼 I’m pursuing a Bachelor's degree in Automation & industrial computing  Engineering;
-- 💬 Ask me about anything related to Data Science , I am happy to help;
+- 🔭 I’m currently Working on writing software for Autonomous Systms;
+- 🌱 I’m learning ROS & Reinforcement Learning ;
+- 💼 I’m pursuing a Master's degree in Control Sytems and Robotics  Engineering;
+- 💬 Ask me about anything related to Robotics , I am happy to help;
 - 📫 Please email via Jebari.Houssem@insat.u-carthage.tn
  to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1GG6VDg4QdKpc0aBq0knx62dA21JcTFRU/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1p6TUfnuYvLD6jAxeIYUBSeB19OfR3D5M/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
