@@ -13,29 +13,36 @@
 <br />
 <br />
 
-I'm **Houssem Jebari**, an **Control Systems and Robotics Engineering Student** 🚀 from Tunisia, currently, I'm a Community Team Member 🙍🏽‍♂️ [@houssemjebari](https://github.com/houssemjebari), and an Artificial Intelligence enthusiast 👨🏽‍💼. 
+I'm **Houssem Jebari**, a versatile **Control Systems and Robotics Engineer** 🚀 with a knack for crafting innovative solutions that span multiple domains. From robotics to AI, web development to computer vision, I enjoy tackling challenging problems with a multidisciplinary approach.
 
-  <img align="right" alt="GIF" src="https://www.indiaeducation.net/imagesvr_ce/5953/6.gif" />
+**A Bit About Me:**
 
-**Talking about Personal Stuff:**
-
-- 🔭 I’m currently Working on writing software for Autonomous Systms;
-- 🌱 I’m learning ROS & Reinforcement Learning ;
-- 💼 I’m pursuing a Master's degree in Control Sytems and Robotics  Engineering;
-- 💬 Ask me about anything related to Robotics , I am happy to help;
-- 📫 Please email via Jebari.Houssem@insat.u-carthage.tn
- to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1p6TUfnuYvLD6jAxeIYUBSeB19OfR3D5M/view?usp=sharing) to get more info.
+- 🔭 I’m currently working on **Robotics Software**, **AI applications**, and building intelligent systems with tools like **PyTorch** and **OpenCV**;
+- 🌱 I’m deeply invested in continuous learning, expanding my expertise in Deep Reinforcement Learning and **Large Language Models** (LLMs). I actively research, write articles, and develop software that bridges the gap between **GPU-level optimization** and **high-level system design**, solving real-world challenges in novel ways.
+- 💡 My expertise spans **Control Systems**, **Robotics**, **Computer Vision**, **AI**, and **Web Development**, making me a well-rounded engineer ready for any challenge;
+- 📫 You can reach me at **houssemjebari98@gmail.com**;
+- 📝 Check out my [Curriculum Vitae](https://drive.google.com/file/d/1p6TUfnuYvLD6jAxeIYUBSeB19OfR3D5M/view?usp=sharing) for a deeper dive into my journey.
 
 
 **Languages and Tools:**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+
+
 
 ![Houssem's github stats](https://github-readme-stats.vercel.app/api?username=houssemjebari&show_icons=true&hide_border=true)
 
