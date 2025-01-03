@@ -13,7 +13,9 @@
 <br />
 <br />
 
+
 I'm **Houssem Jebari**, a versatile **Control Systems and Robotics Engineer** 🚀 with a knack for crafting innovative solutions that span multiple domains. From robotics to AI, web development to computer vision, I enjoy tackling challenging problems with a multidisciplinary approach.
+
 
 **A Bit About Me:**
 
@@ -24,7 +26,9 @@ I'm **Houssem Jebari**, a versatile **Control Systems and Robotics Engineer** �
 - 📝 Check out my [Curriculum Vitae](https://drive.google.com/file/d/1p6TUfnuYvLD6jAxeIYUBSeB19OfR3D5M/view?usp=sharing) for a deeper dive into my journey.
 
 
+
 **Languages and Tools:**  
+
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
